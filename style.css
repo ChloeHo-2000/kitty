@@ -1,0 +1,50 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://64.media.tumblr.com/e5ca41a9d4663c68dfa9d1f1d0b92f2a/dce342d920c58a26-e2/s1280x1920/71ca3a6da66b8393988193e094777f2a0b1bd37e.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: blck;
+}
+
+
+.buffer {
+  height: 8rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: deeppink;
+  border-color: deeppink;
+}
+
+.btn-primary:hover {
+  background-color: lightpink;
+  border-color: lightpink;
+  border-width: 4px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+hr {
+    margin: 20px auto;
+    color: hotpink;
+    border: 3px solid white;
+    max-width: 65px;
+    opacity: 1;  
+}
